@@ -1,4 +1,6 @@
-# Mini Dashboard System
+# Hiring Quest – Frontend Developer @ BOD
+
+Classic Project For Hiring Quest Job At Birth Of Dream (BOD)
 
 ## About Me:
 
