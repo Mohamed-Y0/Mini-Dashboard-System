@@ -79,7 +79,7 @@ src/
 - **Context API** for state management.
 - **TailwindCSS** for styling.
 - **React Hook Form** for better form handling.
-- **React Router** for better form handling.
+- **React Router**
 - **React Icons** for UI icons
 
 ---
